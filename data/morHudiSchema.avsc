@@ -1,0 +1,1 @@
+{"type":"record","name":"mor_table_record","namespace":"hudi_mor_trips_table","fields":[{"name":"destination","type":["string","null"]},{"name":"route_id","type":["string","null"]},{"name":"trip_id","type":["long","null"]},{"name":"tstamp","type":["string","null"]}]}
