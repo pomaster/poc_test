@@ -1,0 +1,3 @@
+S3_Path,Table_Name,Table_Size
+s3://oh-project-ajax-observed/operations/hudi_cow_demo/,hudi_cow_demo,15052265
+s3://oh-project-ajax-observed/operations/project/,project,0
